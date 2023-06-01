@@ -1,7 +1,7 @@
 # Ping Pong com Pygames
 
 ### - Projeto simples do famoso jogo de ping-pong em Python usando a biblioteca Pygame.
-![image](./https://github.com/Jakson-Alves/ping-pong/blob/main/Ping-Pong.gif)
+![image](https://github.com/Jakson-Alves/ping-pong/blob/main/Ping-Pong.gif)
 
 ### - Criar um executável
 ```python
